@@ -4,30 +4,22 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="251782157261847"
+    timestamp="254161364381747"
     token="-1439871187637081026" >
 
     <task
         name="javac"
-        duration="804" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="401" />
+        duration="0" />
     <task
         name="verifier"
-        duration="58" />
+        duration="0" />
 
-    <artifact
-        location="/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/outputs/apk/imageLoaderSample-debug.apk"
-        type="MAIN" />
-
-    <build timestamp="251782157261847" >
-        <artifact
-            location="/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/outputs/apk/imageLoaderSample-debug.apk"
-            type="MAIN" />
-    </build>
+    <build timestamp="254161364381747" />
 
 </instant-run>

@@ -18,199 +18,41 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9411e978-7389-46a9-8cc1-d18b03b14ebb" name="Default" comment="提交代码&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImageActivity$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImageActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/incremental-verifier/debug/com/nostra13/example/universalimageloader/HomeActivity$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/pre-dexed/debug/ImageLoaderSample-library-unspecified_06f725c88ab071d5cc8294748da922cb7bac718d.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/pre-dexed/debug/debug_6240ea13fab249b77e75434bb5e8050c4d95f1fe.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/pre-dexed/debug/support-v4-18.0.0_5cc49fc62ca2d9664536162e46989a87a8459fab.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nostra13/example/universalimageloader/HomeActivity$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/nostra13/example/universalimageloader/HomeActivity$1$override.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/nostra13/example/universalimageloader/HomeActivity$override.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/nostra13/universalimageloader/core/decode/BaseImageDecoder$override.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/nostra13/example/universalimageloader/HomeActivity$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/BuildConfig.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/disc/DiskCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/disc/impl/BaseDiskCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/disc/impl/LimitedAgeDiskCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/disc/impl/UnlimitedDiskCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/disc/impl/ext/DiskLruCache$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/disc/impl/ext/DiskLruCache$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/disc/impl/ext/DiskLruCache$Editor$FaultHidingOutputStream.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/disc/impl/ext/DiskLruCache$Editor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/disc/impl/ext/DiskLruCache$Entry.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/disc/impl/ext/DiskLruCache$Snapshot.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/disc/impl/ext/DiskLruCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/disc/impl/ext/LruDiskCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/disc/impl/ext/StrictLineReader$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/disc/impl/ext/StrictLineReader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/disc/impl/ext/Util.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/disc/naming/FileNameGenerator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/disc/naming/HashCodeFileNameGenerator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/disc/naming/Md5FileNameGenerator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/memory/BaseMemoryCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/memory/LimitedMemoryCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/memory/MemoryCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/memory/impl/FIFOLimitedMemoryCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/memory/impl/FuzzyKeyMemoryCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/memory/impl/LRULimitedMemoryCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/memory/impl/LargestLimitedMemoryCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/memory/impl/LimitedAgeMemoryCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/memory/impl/LruMemoryCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/memory/impl/UsingFreqLimitedMemoryCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/cache/memory/impl/WeakMemoryCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/DefaultConfigurationFactory$DefaultThreadFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/DefaultConfigurationFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/DisplayBitmapTask.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/DisplayImageOptions$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/DisplayImageOptions$Builder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/DisplayImageOptions.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/ImageLoader$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/ImageLoader$SyncImageLoadingListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/ImageLoader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/ImageLoaderConfiguration$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/ImageLoaderConfiguration$Builder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/ImageLoaderConfiguration$NetworkDeniedImageDownloader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/ImageLoaderConfiguration$SlowNetworkImageDownloader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/ImageLoaderConfiguration.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/ImageLoaderEngine$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/ImageLoaderEngine.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/ImageLoadingInfo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/LoadAndDisplayImageTask$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/LoadAndDisplayImageTask$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/LoadAndDisplayImageTask$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/LoadAndDisplayImageTask$TaskCancelledException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/LoadAndDisplayImageTask.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/ProcessAndDisplayImageTask.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/assist/ContentLengthInputStream.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/assist/FailReason$FailType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/assist/FailReason.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/assist/FlushedInputStream.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/assist/ImageScaleType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/assist/ImageSize.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/assist/LoadedFrom.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/assist/QueueProcessingType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/assist/ViewScaleType$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/assist/ViewScaleType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/assist/deque/BlockingDeque.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/assist/deque/Deque.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/assist/deque/LIFOLinkedBlockingDeque.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/assist/deque/LinkedBlockingDeque$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/assist/deque/LinkedBlockingDeque$AbstractItr.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/assist/deque/LinkedBlockingDeque$DescendingItr.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/assist/deque/LinkedBlockingDeque$Itr.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/assist/deque/LinkedBlockingDeque$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/assist/deque/LinkedBlockingDeque.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/decode/BaseImageDecoder$ExifInfo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/decode/BaseImageDecoder$ImageFileInfo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/decode/BaseImageDecoder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/decode/ImageDecoder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/decode/ImageDecodingInfo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/display/BitmapDisplayer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/display/CircleBitmapDisplayer$CircleDrawable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/display/CircleBitmapDisplayer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/display/FadeInBitmapDisplayer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/display/RoundedBitmapDisplayer$RoundedDrawable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/display/RoundedBitmapDisplayer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/display/RoundedVignetteBitmapDisplayer$RoundedVignetteDrawable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/display/RoundedVignetteBitmapDisplayer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/display/SimpleBitmapDisplayer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/download/BaseImageDownloader$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/download/BaseImageDownloader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/download/ImageDownloader$Scheme.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/download/ImageDownloader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/imageaware/ImageAware.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/imageaware/ImageViewAware.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/imageaware/NonViewAware.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/imageaware/ViewAware.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/listener/ImageLoadingListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/listener/ImageLoadingProgressListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/listener/PauseOnScrollListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/listener/SimpleImageLoadingListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/core/process/BitmapProcessor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/utils/DiskCacheUtils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/utils/ImageSizeUtils$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/utils/ImageSizeUtils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/utils/IoUtils$CopyListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/utils/IoUtils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/utils/L.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/utils/MemoryCacheUtils$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/utils/MemoryCacheUtils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/universal-image-loader-1.9.5.jar_7ccxufmeluqstwgjumtrag7ey/com/nostra13/universalimageloader/utils/StorageUtils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/layout/ac_image.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/buildId.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/buildId.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImageActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/src/main/res/layout/ac_image.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projectFilesBackup/.idea/workspace.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImageListActivity$AnimateFirstDisplayListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8cfbc60f66d032b50512551af56eef0dfe4290f1/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_14b2444ea80db1f6600f574df25ae1ae1c0bc7da/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_5cc49fc62ca2d9664536162e46989a87a8459fab/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex" afterPath="" />
+    <list default="true" id="9411e978-7389-46a9-8cc1-d18b03b14ebb" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_empty.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_error.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_stub.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_empty.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_error.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_stub.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_empty.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_error.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_stub.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_empty.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_error.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_stub.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_imageLoaderSample_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_imageLoaderSample_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/AbsListViewBaseActivity.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/AbsListViewBaseActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/BaseActivity.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/BaseActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/HomeActivity$1.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/HomeActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/HomeActivity.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/HomeActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImageGalleryActivity$ImageGalleryAdapter.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImageGalleryActivity$ImageGalleryAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImageGalleryActivity.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImageGalleryActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImageGridActivity$ImageAdapter.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImageGridActivity$ImageAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImageGridActivity.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImageGridActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImageListActivity$1.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImageListActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImageListActivity$ItemAdapter$ViewHolder.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImageListActivity$ItemAdapter$ViewHolder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImageListActivity$ItemAdapter.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImageListActivity$ItemAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImageListActivity.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImageListActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImagePagerActivity$ImagePagerAdapter.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImagePagerActivity$ImagePagerAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImagePagerActivity.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImagePagerActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/R$id.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/R$layout.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/R$menu.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/R$menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/R$string.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/R$xml.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/R$xml.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/widget/UILWidgetProvider$1.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/widget/UILWidgetProvider$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/widget/UILWidgetProvider$2.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/widget/UILWidgetProvider$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/widget/UILWidgetProvider.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/widget/UILWidgetProvider.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/resources-debug-androidTest.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/outputs/apk/imageLoaderSample-debug-unaligned.apk" afterPath="$PROJECT_DIR$/imageLoaderSample/build/outputs/apk/imageLoaderSample-debug-unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/outputs/apk/imageLoaderSample-debug.apk" afterPath="$PROJECT_DIR$/imageLoaderSample/build/outputs/apk/imageLoaderSample-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/library/build/intermediates/res/resources-debug-androidTest.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/outputs/aar/library-debug.aar" afterPath="$PROJECT_DIR$/library/build/outputs/aar/library-debug.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/outputs/aar/library-release.aar" afterPath="$PROJECT_DIR$/library/build/outputs/aar/library-release.aar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_imageLoaderSample_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_imageLoaderSample_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_imageLoaderSample_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_imageLoaderSample_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build.gradle" afterPath="$PROJECT_DIR$/imageLoaderSample/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/generated/source/r/debug/com/nostra13/example/universalimageloader/R.java" afterPath="$PROJECT_DIR$/imageLoaderSample/build/generated/source/r/debug/com/nostra13/example/universalimageloader/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/blame/res/debug/single/layout.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/blame/res/debug/multi/values.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/layout/ac_home.xml" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/layout/ac_home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/symbols/debug/R.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/imageLoaderSample/build/outputs/logs/manifest-merger-debug-report.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/imageLoaderSample.iml" afterPath="$PROJECT_DIR$/imageLoaderSample/imageLoaderSample.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/imageLoaderSample/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/HomeActivity.java" afterPath="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/HomeActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImageListActivity.java" afterPath="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImageListActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/src/main/res/layout/ac_home.xml" afterPath="$PROJECT_DIR$/imageLoaderSample/src/main/res/layout/ac_home.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build.gradle" afterPath="$PROJECT_DIR$/library/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/library.iml" afterPath="$PROJECT_DIR$/library/library.iml" />
     </list>
     <ignored path="ImageLoaderSample.iws" />
@@ -219,6 +61,9 @@
     <ignored path=".idea/" />
     <ignored path="build/" />
     <ignored mask="local.properties" />
+    <ignored path="imageLoaderSample/build/" />
+    <ignored path="*.iml/" />
+    <ignored path="library/build/" />
     <manually-removed-from-ignored>
       <directory path="local.properites/" />
     </manually-removed-from-ignored>
@@ -255,36 +100,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="3591">
               <caret line="223" column="70" selection-start-line="223" selection-start-column="70" selection-end-line="223" selection-end-column="70" />
-              <folding>
-                <element signature="n#!!doc" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#4314#4315#0" expanded="false" />
-                <element signature="e#4349#4350#0" expanded="false" />
-                <element signature="e#5120#5121#0" expanded="false" />
-                <element signature="e#5167#5168#0" expanded="false" />
-                <element signature="e#6154#6155#0" expanded="false" />
-                <element signature="e#6204#6205#0" expanded="false" />
-                <element signature="e#7154#7155#0" expanded="false" />
-                <element signature="e#7205#7206#0" expanded="false" />
-                <element signature="e#12751#12752#0" expanded="false" />
-                <element signature="e#12802#12803#0" expanded="false" />
-                <element signature="e#13988#13989#0" expanded="false" />
-                <element signature="e#14034#14035#0" expanded="false" />
-                <element signature="e#17999#18000#0" expanded="false" />
-                <element signature="e#18051#18052#0" expanded="false" />
-                <element signature="e#18282#18283#0" expanded="false" />
-                <element signature="e#18327#18328#0" expanded="false" />
-                <element signature="e#18903#18904#0" expanded="false" />
-                <element signature="e#18959#18960#0" expanded="false" />
-                <element signature="e#19398#19399#0" expanded="false" />
-                <element signature="e#19448#19449#0" expanded="false" />
-                <element signature="e#19648#19649#0" expanded="false" />
-                <element signature="e#19669#19670#0" expanded="false" />
-                <element signature="e#19739#19740#0" expanded="false" />
-                <element signature="e#19761#19762#0" expanded="false" />
-                <element signature="e#19920#19921#0" expanded="false" />
-                <element signature="e#19940#19941#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -292,7 +108,7 @@
       <file leaf-file-name="ImageActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImageActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="562">
+            <state relative-caret-position="722">
               <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -301,11 +117,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ImagePagerActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ImagePagerActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImagePagerActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+              <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -327,7 +143,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
+            <state relative-caret-position="133">
               <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
               <folding />
             </state>
@@ -354,11 +170,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/library/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="171">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -400,12 +216,12 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.10-all/a4w5fzrkeut1ox71xslb49gst/gradle-2.10" />
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-all/55gk2rcmfc6p2dg9u9ohc3hw9/gradle-3.3" />
       </map>
     </option>
     <option name="myGradleVersions">
       <map>
-        <entry key="$PROJECT_DIR$" value="2.10" />
+        <entry key="$PROJECT_DIR$" value="3.3" />
       </map>
     </option>
     <option name="availableProjects">
@@ -420,16 +236,16 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value=":library" />
-                <option name="path" value="$PROJECT_DIR$/library" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
                 <option name="name" value="ImageLoaderSample" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
                 <option name="name" value=":imageLoaderSample" />
                 <option name="path" value="$PROJECT_DIR$/imageLoaderSample" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":library" />
+                <option name="path" value="$PROJECT_DIR$/library" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -453,6 +269,14 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="packageReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="validateSigningDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNativeLibsWithSyncJniLibsForRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -492,10 +316,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="assembleDebugUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prePackageMarkerForDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the configuration model of root project 'ImageLoaderSample'. [incubating]" />
@@ -539,11 +359,6 @@
                 <option name="name" value="deviceCheck" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare ImageLoaderSample:library:unspecified" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareImageLoaderSampleLibraryUnspecifiedLibrary" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays all dependencies declared in root project 'ImageLoaderSample'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
@@ -553,6 +368,10 @@
                 <option name="name" value="processDebugResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNativeLibsWithStripDebugSymbolForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Runs lint on all variants." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="lint" />
@@ -560,10 +379,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="packageDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prePackageMarkerForRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -596,6 +411,11 @@
                 <option name="name" value="testReleaseUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Deletes the build cache directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanBuildCache" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="assembleDefault" />
               </ExternalTaskPojo>
@@ -609,10 +429,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformNative_libsWithMergeJniLibsForDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileDebugAndroidTestJavaWithJavac" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -623,10 +439,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileReleaseRenderscript" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformNative_libsWithSyncJniLibsForRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles all Debug builds." />
@@ -647,10 +459,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prePackageMarkerForDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="transformClassesWithDexForDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -664,6 +472,10 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="processReleaseUnitTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javaPreCompileDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Uninstalls the Release build." />
@@ -704,7 +516,15 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javaPreCompileDebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="packageDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNativeLibsWithSyncJniLibsForDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -789,6 +609,14 @@
                 <option name="name" value="mergeDebugAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javaPreCompileReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javaPreCompileRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Runs all device checks on currently connected devices." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="connectedCheck" />
@@ -804,6 +632,10 @@
                 <option name="name" value="uninstallAll" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNativeLibsWithMergeJniLibsForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Assembles all the Test applications." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="assembleAndroidTest" />
@@ -814,15 +646,11 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="zipalignDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformNative_libsWithMergeJniLibsForDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="packageRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="validateSigningDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -851,6 +679,10 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNativeLibsWithMergeJniLibsForDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="mergeReleaseShaders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -868,11 +700,19 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNativeLibsWithMergeJniLibsForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="generateDebugSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="mergeDebugAndroidTestJniLibFolders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="extractProguardFiles" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -917,11 +757,11 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileDebugNdk" />
+                <option name="name" value="transformNativeLibsWithStripDebugSymbolForDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformNative_libsWithMergeJniLibsForRelease" />
+                <option name="name" value="compileDebugNdk" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -942,7 +782,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="validateDebugSigning" />
+                <option name="name" value="javaPreCompileDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Run unit tests for the debug build." />
@@ -1010,6 +850,11 @@
                 <option name="name" value="generateDebugAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'ImageLoaderSample'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Displays all buildscript dependencies declared in root project 'ImageLoaderSample'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="buildEnvironment" />
@@ -1056,7 +901,7 @@
                 <option name="name" value="generateReleaseResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Runs lint on just the fatal issues in the Release build." />
+                <option name="description" value="Runs lint on just the fatal issues in the release build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="lintVitalRelease" />
               </ExternalTaskPojo>
@@ -1086,10 +931,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="preDebugBuild" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="transformNative_libsWithSyncJniLibsForDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -1143,6 +984,10 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
+                <option name="name" value="validateSigningDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
                 <option name="name" value="assembleReleaseUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -1165,10 +1010,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
                 <option name="name" value="assembleDebugUnitTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
-                <option name="name" value="prePackageMarkerForDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Creates a version of android.jar that's suitable for unit tests." />
@@ -1199,11 +1040,6 @@
                 <option name="name" value="deviceCheck" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare ImageLoaderSample:library:unspecified" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
-                <option name="name" value="prepareImageLoaderSampleLibraryUnspecifiedLibrary" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays all dependencies declared in project ':imageLoaderSample'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
                 <option name="name" value="dependencies" />
@@ -1213,6 +1049,10 @@
                 <option name="name" value="processDebugResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
+                <option name="name" value="transformNativeLibsWithStripDebugSymbolForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Runs lint on all variants." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
                 <option name="name" value="lint" />
@@ -1220,10 +1060,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
                 <option name="name" value="packageDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
-                <option name="name" value="prePackageMarkerForRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
@@ -1256,16 +1092,17 @@
                 <option name="name" value="testReleaseUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Deletes the build cache directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
+                <option name="name" value="cleanBuildCache" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
                 <option name="name" value="compileDebugAndroidTestShaders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
                 <option name="name" value="mergeDebugShaders" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
-                <option name="name" value="transformNative_libsWithMergeJniLibsForDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
@@ -1299,10 +1136,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
-                <option name="name" value="prePackageMarkerForDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
                 <option name="name" value="transformClassesWithDexForDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -1316,6 +1149,10 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
                 <option name="name" value="processReleaseUnitTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
+                <option name="name" value="javaPreCompileDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Uninstalls the Release build." />
@@ -1345,6 +1182,10 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
                 <option name="name" value="checkReleaseManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
+                <option name="name" value="javaPreCompileDebugUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
@@ -1429,6 +1270,14 @@
                 <option name="name" value="mergeDebugAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
+                <option name="name" value="javaPreCompileReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
+                <option name="name" value="javaPreCompileRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Runs all device checks on currently connected devices." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
                 <option name="name" value="connectedCheck" />
@@ -1444,6 +1293,10 @@
                 <option name="name" value="uninstallAll" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
+                <option name="name" value="transformNativeLibsWithMergeJniLibsForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Assembles all the Test applications." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
                 <option name="name" value="assembleAndroidTest" />
@@ -1454,15 +1307,11 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
-                <option name="name" value="zipalignDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
-                <option name="name" value="transformNative_libsWithMergeJniLibsForDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
                 <option name="name" value="packageRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
+                <option name="name" value="validateSigningDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
@@ -1486,6 +1335,10 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
+                <option name="name" value="transformNativeLibsWithMergeJniLibsForDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
                 <option name="name" value="mergeReleaseShaders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -1503,11 +1356,19 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
+                <option name="name" value="transformNativeLibsWithMergeJniLibsForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
                 <option name="name" value="generateDebugSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
                 <option name="name" value="mergeDebugAndroidTestJniLibFolders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
+                <option name="name" value="extractProguardFiles" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
@@ -1548,11 +1409,11 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
-                <option name="name" value="compileDebugNdk" />
+                <option name="name" value="transformNativeLibsWithStripDebugSymbolForDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
-                <option name="name" value="transformNative_libsWithMergeJniLibsForRelease" />
+                <option name="name" value="compileDebugNdk" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
@@ -1573,7 +1434,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
-                <option name="name" value="validateDebugSigning" />
+                <option name="name" value="javaPreCompileDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Run unit tests for the debug build." />
@@ -1641,6 +1502,11 @@
                 <option name="name" value="generateDebugAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':imageLoaderSample'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Displays all buildscript dependencies declared in project ':imageLoaderSample'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
                 <option name="name" value="buildEnvironment" />
@@ -1683,7 +1549,7 @@
                 <option name="name" value="generateReleaseResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Runs lint on just the fatal issues in the Release build." />
+                <option name="description" value="Runs lint on just the fatal issues in the release build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/imageLoaderSample" />
                 <option name="name" value="lintVitalRelease" />
               </ExternalTaskPojo>
@@ -1774,6 +1640,14 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
+                <option name="name" value="validateSigningDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
+                <option name="name" value="transformNativeLibsWithSyncJniLibsForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
                 <option name="name" value="assembleReleaseUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -1857,6 +1731,10 @@
                 <option name="name" value="processDebugResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
+                <option name="name" value="transformNativeLibsWithStripDebugSymbolForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Runs lint on all variants." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
                 <option name="name" value="lint" />
@@ -1892,6 +1770,11 @@
                 <option name="name" value="testReleaseUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Deletes the build cache directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
+                <option name="name" value="cleanBuildCache" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
                 <option name="name" value="assembleDefault" />
               </ExternalTaskPojo>
@@ -1905,10 +1788,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
-                <option name="name" value="transformNative_libsWithMergeJniLibsForDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
                 <option name="name" value="compileDebugAndroidTestJavaWithJavac" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -1919,10 +1798,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
                 <option name="name" value="compileReleaseRenderscript" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
-                <option name="name" value="transformNative_libsWithSyncJniLibsForRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles all Debug builds." />
@@ -1943,10 +1818,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
-                <option name="name" value="prePackageMarkerForDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
                 <option name="name" value="preDebugAndroidTestBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -1956,6 +1827,10 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
                 <option name="name" value="processReleaseUnitTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
+                <option name="name" value="javaPreCompileDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
@@ -1987,7 +1862,15 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
+                <option name="name" value="javaPreCompileDebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
                 <option name="name" value="packageDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
+                <option name="name" value="transformNativeLibsWithSyncJniLibsForDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
@@ -2072,6 +1955,14 @@
                 <option name="name" value="mergeDebugAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
+                <option name="name" value="javaPreCompileReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
+                <option name="name" value="javaPreCompileRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Runs all device checks on currently connected devices." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
                 <option name="name" value="connectedCheck" />
@@ -2087,6 +1978,10 @@
                 <option name="name" value="uninstallAll" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
+                <option name="name" value="transformNativeLibsWithMergeJniLibsForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Assembles all the Test applications." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
                 <option name="name" value="assembleAndroidTest" />
@@ -2094,10 +1989,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
                 <option name="name" value="processDebugAndroidTestResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
-                <option name="name" value="transformNative_libsWithMergeJniLibsForDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
@@ -2114,6 +2005,10 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
                 <option name="name" value="generateDebugAndroidTestResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
+                <option name="name" value="transformNativeLibsWithMergeJniLibsForDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
@@ -2134,11 +2029,19 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
+                <option name="name" value="transformNativeLibsWithMergeJniLibsForRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
                 <option name="name" value="generateDebugSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
                 <option name="name" value="mergeDebugAndroidTestJniLibFolders" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
+                <option name="name" value="extractProguardFiles" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
@@ -2179,11 +2082,11 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
-                <option name="name" value="compileDebugNdk" />
+                <option name="name" value="transformNativeLibsWithStripDebugSymbolForDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
-                <option name="name" value="transformNative_libsWithMergeJniLibsForRelease" />
+                <option name="name" value="compileDebugNdk" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
@@ -2204,7 +2107,7 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
-                <option name="name" value="validateDebugSigning" />
+                <option name="name" value="javaPreCompileDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Run unit tests for the debug build." />
@@ -2257,6 +2160,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
                 <option name="name" value="generateDebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':library'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
+                <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays all buildscript dependencies declared in project ':library'." />
@@ -2328,10 +2236,6 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
-                <option name="name" value="transformNative_libsWithSyncJniLibsForDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/library" />
                 <option name="name" value="generateDebugBuildConfig" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -2379,7 +2283,7 @@
         <entry key="$PROJECT_DIR$/../../ASProject/devel_6.3.8/android-weidao-user" value="7208810070000" />
         <entry key="$PROJECT_DIR$/../FlycoTabLayout" value="5830359968000" />
         <entry key="$PROJECT_DIR$/../GridViewPager" value="5842126300000" />
-        <entry key="$PROJECT_DIR$" value="5879810971000" />
+        <entry key="$PROJECT_DIR$" value="5940220815000" />
         <entry key="$PROJECT_DIR$/../PhotoNoter" value="5825812890000" />
         <entry key="$PROJECT_DIR$/../RecyclerViewItemAnimators" value="7287905470000" />
       </map>
@@ -2396,93 +2300,64 @@
                       <ExternalModuleBuildClasspathPojo>
                         <option name="entries">
                           <list>
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/2.1.2/831c63d2b30ed5f96a1cd9fd141594baf947b956/gradle-2.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/2.1.2/a15b8a1abdb158716cb2eca322c8c055dcf3c73d/gradle-2.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/2.1.2/b0d10d83f1147cb8182c0ded4d5403d8d37331ef/gradle-core-2.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/2.1.2/23fa54cbd68abe0d190b3f19b8db553c22b1e95e/gradle-core-2.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/2.1.2/10a052d4d411f30a12b21f942449a1f5deea1860/builder-2.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/2.1.2/b0f8f1b2be1cca433af04ac59c032bb65f104f68/builder-2.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint/25.1.2/cf990f1875849b4a3a3dcd4c7427b950a1ae5b02/lint-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint/25.1.2/73b0fca79c61b7d4212354d2dc54310f18d3eab1/lint-25.1.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/2.3.0/gradle-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/2.3.0/gradle-core-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder/2.3.0/builder-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint/25.3.0/lint-25.3.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/transform-api/2.0.0-deprecated-use-gradle-api/transform-api-2.0.0-deprecated-use-gradle-api.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/2.1.2/95dab283a496d4434ecfa3b456fc9902e85bcb51/gradle-api-2.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/2.1.2/13a4ad6e82603eca38f0f46e308db7b2374bd33a/gradle-api-2.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/2.1.2/553d79a3f70520b5d4b642f8fdd44f010be02980/compilerCommon-2.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/2.1.2/658479d60a2ad7f511ea43028a9dbe6f7658779d/compilerCommon-2.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-5.0.3-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.3/dcc2193db20e19e1feca8b1240dbbc4e190824fa/asm-5.0.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-commons-5.0.3-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/5.0.3/a7111830132c7f87d08fe48cb0ca07630f8cb91c/asm-commons-5.0.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.2.1/proguard-gradle-5.2.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jacoco/org.jacoco.core/0.7.4.201502262128/b6356a696e396a348a673237eee1f496ef75b4b1/org.jacoco.core-0.7.4.201502262128-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jacoco/org.jacoco.core/0.7.4.201502262128/31482f50411a3a5769b6c78fa9b97ba731c205e7/org.jacoco.core-0.7.4.201502262128.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/antlr/3.5.2/antlr-3.5.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/2.1.2/f19905b8b3f1ee051f3557d25bf1ce83e97e9ba3/builder-model-2.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/2.1.2/54929c8a9d8c2dd13c945c3f5ad0ec5546cdc006/builder-model-2.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/2.1.2/5b452a5ddbdd43c47f519be4d93b57562d495aca/builder-test-api-2.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/2.1.2/ee73cc6c008005128538d86c1c56a27e2d96c32/builder-test-api-2.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/25.1.2/21775dd82ab275653b7d1d76f5026b7675841e90/sdklib-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/25.1.2/59cdf46da07c365d456606d3985a51702db87c24/sdklib-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdk-common/25.1.2/1ab12362d3631876ff7108cee05860cdcdae2aae/sdk-common-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdk-common/25.1.2/1dcda99e022faddbf24336c0c8b37398773f4c36/sdk-common-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/25.1.2/6916af9c1306f7eb55428cef97d8beeae1a69670/common-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/25.1.2/c15c73c5ddedc9ac2afdfda827fa23a9b59b9b9d/common-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/25.1.2/c31b678259df5cffbf0892be0e3fff8525705f1c/manifest-merger-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/25.1.2/2f070c6b90be1642f37aafe15e42f21ba73394da/manifest-merger-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/25.1.2/838cad7e7534af0207b3cdf5685724ac93c4fcfd/ddmlib-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/25.1.2/521439862ec854d683a19a351fcc3beda4653346/ddmlib-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.jack/jack-api/0.10.0/93c3b096c028929ae9ec7414bd8da03b4feb6893/jack-api-0.10.0-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.jack/jack-api/0.10.0/f44f53e8f713714f9a1bf9b2cabfea3584b00878/jack-api-0.10.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-api/2.3.0/gradle-api-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/databinding/compilerCommon/2.3.0/compilerCommon-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.4/asm-5.0.4-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-commons/5.0.4/asm-commons-5.0.4.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.3.2/proguard-gradle-5.3.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jacoco/org.jacoco.core/0.7.5.201505241946/org.jacoco.core-0.7.5.201505241946.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jacoco/org.jacoco.report/0.7.5.201505241946/org.jacoco.report-0.7.5.201505241946.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/jopt-simple/jopt-simple/4.9/jopt-simple-4.9.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/protobuf/protobuf-java/3.0.0/protobuf-java-3.0.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-model/2.3.0/builder-model-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-test-api/2.3.0/builder-test-api-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdklib/25.3.0/sdklib-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdk-common/25.3.0/sdk-common-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/common/25.3.0/common-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/manifest-merger/25.3.0/manifest-merger-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/ddms/ddmlib/25.3.0/ddmlib-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jack/jack-api/0.13.0/jack-api-0.13.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jill/jill-api/0.10.0/jill-api-0.10.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/analytics-library/protos/25.3.0/protos-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/analytics-library/shared/25.3.0/shared-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/analytics-library/tracker/25.3.0/tracker-25.3.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-tree-5.0.3-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/5.0.3/287749b48ba7162fb67c93a026d690b29f410bed/asm-tree-5.0.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-checks/25.1.2/433c9236b299a30633c7a82ac4ab1b2b7fa52e0/lint-checks-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-checks/25.1.2/68583e445a033021d9792c9d84ac7ce8ea549c81/lint-checks-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jdt.core.compiler/ecj/4.4.2/903e8c2cb521cc91636eccae66b8594435516ff5/ecj-4.4.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jdt.core.compiler/ecj/4.4.2/71d67f5bab9465ec844596ef844f40902ae25392/ecj-4.4.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/25.1.2/e7aa50c5649e0ad23ce4fa6b2aa7b53fc5ce8bd7/annotations-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/25.1.2/9dbfadaaf19097c12787c68cf43a12c739936345/annotations-25.1.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.1.2/2d98da9b8a210c81d0456a09c702b84beea32be/baseLibrary-2.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.1.2/d0395908c940f4171fb024435b25f7458c1147f3/baseLibrary-2.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4/4.5/d61f0b719751a2823a1d4e2d206406488d52276d/antlr4-4.5-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4/4.5/a0e860e317147848e69ac145bc5196901a9993bf/antlr4-4.5.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-tree/5.0.4/asm-tree-5.0.4.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-checks/25.3.0/lint-checks-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/eclipse/jdt/core/compiler/ecj/4.6.1/ecj-4.6.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/databinding/baseLibrary/2.3.0/baseLibrary-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/antlr4/4.5.3/antlr4-4.5.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.2.1/proguard-base-5.2.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/annotations/25.3.0/annotations-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.3.2/proguard-base-5.3.2.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/ST4/4.0.8/ST4-4.0.8.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/25.1.2/77d6be5f7434bbee7ba7e259f1ccad79e2fbde6/layoutlib-api-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/25.1.2/b93f0de181063ee2f673d7d6cac0bdbb94cc1b90/layoutlib-api-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/25.1.2/7d06048ed915a03eaf99c70bbc6e68d10324c30e/dvlib-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/25.1.2/bfcb16fb0e44568bd8e31c6aaf1850c1dcd06483/dvlib-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/25.1.2/d5bc6e179c237124e51b4af951e4caf0f31d4837/repository-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/25.1.2/1a1f5f59b21a42817eec50b7aced4400bb72273b/repository-25.1.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/layoutlib/layoutlib-api/25.3.0/layoutlib-api-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/dvlib/25.3.0/dvlib-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/repository/25.3.0/repository-25.3.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-api/25.1.2/2a9b10f19fc2bf1cca643a9770e4738d9b121ed3/lint-api-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-api/25.1.2/f9f6807b68d486eaf34cc3f08b6f098f89cf3db8/lint-api-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-analysis-5.0.3-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/5.0.3/c7126aded0e8e13fed5f913559a0dd7b770a10f3/asm-analysis-5.0.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4-runtime/4.5/61495cea98c9c63b16b87ae4e79b7e478405e40b/antlr4-runtime-4.5-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4-runtime/4.5/5067478827a98f5ab77d9fc577903edc57af3da4/antlr4-runtime-4.5.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4-annotations/4.5/8d24c9255a970c3c85fc5c88dfe9d4e8627d56e2/antlr4-annotations-4.5-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4-annotations/4.5/2c5996120a0ac690de575bd8ac36250e6720a6b8/antlr4-annotations-4.5.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-api/25.3.0/lint-api-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-analysis/5.0.4/asm-analysis-5.0.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/jimfs/jimfs/1.1/jimfs-1.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/com-intellij/uast/162.2228.14/uast-162.2228.14.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.abego.treelayout/org.abego.treelayout.core/1.0.1/6e1dd6f6efdb453c7b8ba35726c63fbf50cd7142/org.abego.treelayout.core-1.0.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.abego.treelayout/org.abego.treelayout.core/1.0.1/e31e79cba7a5414cf18fa69f3f0a2cf9ee997b61/org.abego.treelayout.core-1.0.1.jar" />
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$" />
@@ -2494,93 +2369,64 @@
                       <ExternalModuleBuildClasspathPojo>
                         <option name="entries">
                           <list>
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/2.1.2/831c63d2b30ed5f96a1cd9fd141594baf947b956/gradle-2.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/2.1.2/a15b8a1abdb158716cb2eca322c8c055dcf3c73d/gradle-2.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/2.1.2/b0d10d83f1147cb8182c0ded4d5403d8d37331ef/gradle-core-2.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/2.1.2/23fa54cbd68abe0d190b3f19b8db553c22b1e95e/gradle-core-2.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/2.1.2/10a052d4d411f30a12b21f942449a1f5deea1860/builder-2.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/2.1.2/b0f8f1b2be1cca433af04ac59c032bb65f104f68/builder-2.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint/25.1.2/cf990f1875849b4a3a3dcd4c7427b950a1ae5b02/lint-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint/25.1.2/73b0fca79c61b7d4212354d2dc54310f18d3eab1/lint-25.1.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/2.3.0/gradle-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/2.3.0/gradle-core-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder/2.3.0/builder-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint/25.3.0/lint-25.3.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/transform-api/2.0.0-deprecated-use-gradle-api/transform-api-2.0.0-deprecated-use-gradle-api.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/2.1.2/95dab283a496d4434ecfa3b456fc9902e85bcb51/gradle-api-2.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/2.1.2/13a4ad6e82603eca38f0f46e308db7b2374bd33a/gradle-api-2.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/2.1.2/553d79a3f70520b5d4b642f8fdd44f010be02980/compilerCommon-2.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/2.1.2/658479d60a2ad7f511ea43028a9dbe6f7658779d/compilerCommon-2.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-5.0.3-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.3/dcc2193db20e19e1feca8b1240dbbc4e190824fa/asm-5.0.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-commons-5.0.3-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/5.0.3/a7111830132c7f87d08fe48cb0ca07630f8cb91c/asm-commons-5.0.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.2.1/proguard-gradle-5.2.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jacoco/org.jacoco.core/0.7.4.201502262128/b6356a696e396a348a673237eee1f496ef75b4b1/org.jacoco.core-0.7.4.201502262128-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jacoco/org.jacoco.core/0.7.4.201502262128/31482f50411a3a5769b6c78fa9b97ba731c205e7/org.jacoco.core-0.7.4.201502262128.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/antlr/3.5.2/antlr-3.5.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/2.1.2/f19905b8b3f1ee051f3557d25bf1ce83e97e9ba3/builder-model-2.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/2.1.2/54929c8a9d8c2dd13c945c3f5ad0ec5546cdc006/builder-model-2.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/2.1.2/5b452a5ddbdd43c47f519be4d93b57562d495aca/builder-test-api-2.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/2.1.2/ee73cc6c008005128538d86c1c56a27e2d96c32/builder-test-api-2.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/25.1.2/21775dd82ab275653b7d1d76f5026b7675841e90/sdklib-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/25.1.2/59cdf46da07c365d456606d3985a51702db87c24/sdklib-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdk-common/25.1.2/1ab12362d3631876ff7108cee05860cdcdae2aae/sdk-common-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdk-common/25.1.2/1dcda99e022faddbf24336c0c8b37398773f4c36/sdk-common-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/25.1.2/6916af9c1306f7eb55428cef97d8beeae1a69670/common-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/25.1.2/c15c73c5ddedc9ac2afdfda827fa23a9b59b9b9d/common-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/25.1.2/c31b678259df5cffbf0892be0e3fff8525705f1c/manifest-merger-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/25.1.2/2f070c6b90be1642f37aafe15e42f21ba73394da/manifest-merger-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/25.1.2/838cad7e7534af0207b3cdf5685724ac93c4fcfd/ddmlib-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/25.1.2/521439862ec854d683a19a351fcc3beda4653346/ddmlib-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.jack/jack-api/0.10.0/93c3b096c028929ae9ec7414bd8da03b4feb6893/jack-api-0.10.0-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.jack/jack-api/0.10.0/f44f53e8f713714f9a1bf9b2cabfea3584b00878/jack-api-0.10.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-api/2.3.0/gradle-api-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/databinding/compilerCommon/2.3.0/compilerCommon-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.4/asm-5.0.4-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-commons/5.0.4/asm-commons-5.0.4.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.3.2/proguard-gradle-5.3.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jacoco/org.jacoco.core/0.7.5.201505241946/org.jacoco.core-0.7.5.201505241946.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jacoco/org.jacoco.report/0.7.5.201505241946/org.jacoco.report-0.7.5.201505241946.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/jopt-simple/jopt-simple/4.9/jopt-simple-4.9.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/protobuf/protobuf-java/3.0.0/protobuf-java-3.0.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-model/2.3.0/builder-model-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-test-api/2.3.0/builder-test-api-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdklib/25.3.0/sdklib-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdk-common/25.3.0/sdk-common-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/common/25.3.0/common-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/manifest-merger/25.3.0/manifest-merger-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/ddms/ddmlib/25.3.0/ddmlib-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jack/jack-api/0.13.0/jack-api-0.13.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jill/jill-api/0.10.0/jill-api-0.10.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/analytics-library/protos/25.3.0/protos-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/analytics-library/shared/25.3.0/shared-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/analytics-library/tracker/25.3.0/tracker-25.3.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-tree-5.0.3-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/5.0.3/287749b48ba7162fb67c93a026d690b29f410bed/asm-tree-5.0.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-checks/25.1.2/433c9236b299a30633c7a82ac4ab1b2b7fa52e0/lint-checks-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-checks/25.1.2/68583e445a033021d9792c9d84ac7ce8ea549c81/lint-checks-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jdt.core.compiler/ecj/4.4.2/903e8c2cb521cc91636eccae66b8594435516ff5/ecj-4.4.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jdt.core.compiler/ecj/4.4.2/71d67f5bab9465ec844596ef844f40902ae25392/ecj-4.4.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/25.1.2/e7aa50c5649e0ad23ce4fa6b2aa7b53fc5ce8bd7/annotations-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/25.1.2/9dbfadaaf19097c12787c68cf43a12c739936345/annotations-25.1.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.1.2/2d98da9b8a210c81d0456a09c702b84beea32be/baseLibrary-2.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.1.2/d0395908c940f4171fb024435b25f7458c1147f3/baseLibrary-2.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4/4.5/d61f0b719751a2823a1d4e2d206406488d52276d/antlr4-4.5-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4/4.5/a0e860e317147848e69ac145bc5196901a9993bf/antlr4-4.5.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-tree/5.0.4/asm-tree-5.0.4.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-checks/25.3.0/lint-checks-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/eclipse/jdt/core/compiler/ecj/4.6.1/ecj-4.6.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/databinding/baseLibrary/2.3.0/baseLibrary-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/antlr4/4.5.3/antlr4-4.5.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.2.1/proguard-base-5.2.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/annotations/25.3.0/annotations-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.3.2/proguard-base-5.3.2.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/ST4/4.0.8/ST4-4.0.8.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/25.1.2/77d6be5f7434bbee7ba7e259f1ccad79e2fbde6/layoutlib-api-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/25.1.2/b93f0de181063ee2f673d7d6cac0bdbb94cc1b90/layoutlib-api-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/25.1.2/7d06048ed915a03eaf99c70bbc6e68d10324c30e/dvlib-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/25.1.2/bfcb16fb0e44568bd8e31c6aaf1850c1dcd06483/dvlib-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/25.1.2/d5bc6e179c237124e51b4af951e4caf0f31d4837/repository-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/25.1.2/1a1f5f59b21a42817eec50b7aced4400bb72273b/repository-25.1.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/layoutlib/layoutlib-api/25.3.0/layoutlib-api-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/dvlib/25.3.0/dvlib-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/repository/25.3.0/repository-25.3.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-api/25.1.2/2a9b10f19fc2bf1cca643a9770e4738d9b121ed3/lint-api-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-api/25.1.2/f9f6807b68d486eaf34cc3f08b6f098f89cf3db8/lint-api-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-analysis-5.0.3-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/5.0.3/c7126aded0e8e13fed5f913559a0dd7b770a10f3/asm-analysis-5.0.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4-runtime/4.5/61495cea98c9c63b16b87ae4e79b7e478405e40b/antlr4-runtime-4.5-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4-runtime/4.5/5067478827a98f5ab77d9fc577903edc57af3da4/antlr4-runtime-4.5.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4-annotations/4.5/8d24c9255a970c3c85fc5c88dfe9d4e8627d56e2/antlr4-annotations-4.5-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4-annotations/4.5/2c5996120a0ac690de575bd8ac36250e6720a6b8/antlr4-annotations-4.5.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-api/25.3.0/lint-api-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-analysis/5.0.4/asm-analysis-5.0.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/jimfs/jimfs/1.1/jimfs-1.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/com-intellij/uast/162.2228.14/uast-162.2228.14.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.abego.treelayout/org.abego.treelayout.core/1.0.1/6e1dd6f6efdb453c7b8ba35726c63fbf50cd7142/org.abego.treelayout.core-1.0.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.abego.treelayout/org.abego.treelayout.core/1.0.1/e31e79cba7a5414cf18fa69f3f0a2cf9ee997b61/org.abego.treelayout.core-1.0.1.jar" />
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$/imageLoaderSample" />
@@ -2592,93 +2438,64 @@
                       <ExternalModuleBuildClasspathPojo>
                         <option name="entries">
                           <list>
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/2.1.2/831c63d2b30ed5f96a1cd9fd141594baf947b956/gradle-2.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/2.1.2/a15b8a1abdb158716cb2eca322c8c055dcf3c73d/gradle-2.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/2.1.2/b0d10d83f1147cb8182c0ded4d5403d8d37331ef/gradle-core-2.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/2.1.2/23fa54cbd68abe0d190b3f19b8db553c22b1e95e/gradle-core-2.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/2.1.2/10a052d4d411f30a12b21f942449a1f5deea1860/builder-2.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/2.1.2/b0f8f1b2be1cca433af04ac59c032bb65f104f68/builder-2.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint/25.1.2/cf990f1875849b4a3a3dcd4c7427b950a1ae5b02/lint-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint/25.1.2/73b0fca79c61b7d4212354d2dc54310f18d3eab1/lint-25.1.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/2.3.0/gradle-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-core/2.3.0/gradle-core-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder/2.3.0/builder-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint/25.3.0/lint-25.3.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/transform-api/2.0.0-deprecated-use-gradle-api/transform-api-2.0.0-deprecated-use-gradle-api.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/2.1.2/95dab283a496d4434ecfa3b456fc9902e85bcb51/gradle-api-2.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/2.1.2/13a4ad6e82603eca38f0f46e308db7b2374bd33a/gradle-api-2.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/2.1.2/553d79a3f70520b5d4b642f8fdd44f010be02980/compilerCommon-2.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/2.1.2/658479d60a2ad7f511ea43028a9dbe6f7658779d/compilerCommon-2.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-5.0.3-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.3/dcc2193db20e19e1feca8b1240dbbc4e190824fa/asm-5.0.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-commons-5.0.3-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/5.0.3/a7111830132c7f87d08fe48cb0ca07630f8cb91c/asm-commons-5.0.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.2.1/proguard-gradle-5.2.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jacoco/org.jacoco.core/0.7.4.201502262128/b6356a696e396a348a673237eee1f496ef75b4b1/org.jacoco.core-0.7.4.201502262128-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jacoco/org.jacoco.core/0.7.4.201502262128/31482f50411a3a5769b6c78fa9b97ba731c205e7/org.jacoco.core-0.7.4.201502262128.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/antlr/3.5.2/antlr-3.5.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/2.1.2/f19905b8b3f1ee051f3557d25bf1ce83e97e9ba3/builder-model-2.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/2.1.2/54929c8a9d8c2dd13c945c3f5ad0ec5546cdc006/builder-model-2.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/2.1.2/5b452a5ddbdd43c47f519be4d93b57562d495aca/builder-test-api-2.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/2.1.2/ee73cc6c008005128538d86c1c56a27e2d96c32/builder-test-api-2.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/25.1.2/21775dd82ab275653b7d1d76f5026b7675841e90/sdklib-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/25.1.2/59cdf46da07c365d456606d3985a51702db87c24/sdklib-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdk-common/25.1.2/1ab12362d3631876ff7108cee05860cdcdae2aae/sdk-common-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdk-common/25.1.2/1dcda99e022faddbf24336c0c8b37398773f4c36/sdk-common-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/25.1.2/6916af9c1306f7eb55428cef97d8beeae1a69670/common-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/25.1.2/c15c73c5ddedc9ac2afdfda827fa23a9b59b9b9d/common-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/25.1.2/c31b678259df5cffbf0892be0e3fff8525705f1c/manifest-merger-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/25.1.2/2f070c6b90be1642f37aafe15e42f21ba73394da/manifest-merger-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/25.1.2/838cad7e7534af0207b3cdf5685724ac93c4fcfd/ddmlib-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/25.1.2/521439862ec854d683a19a351fcc3beda4653346/ddmlib-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.jack/jack-api/0.10.0/93c3b096c028929ae9ec7414bd8da03b4feb6893/jack-api-0.10.0-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.jack/jack-api/0.10.0/f44f53e8f713714f9a1bf9b2cabfea3584b00878/jack-api-0.10.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle-api/2.3.0/gradle-api-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/databinding/compilerCommon/2.3.0/compilerCommon-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.4/asm-5.0.4-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-commons/5.0.4/asm-commons-5.0.4.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.3.2/proguard-gradle-5.3.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jacoco/org.jacoco.core/0.7.5.201505241946/org.jacoco.core-0.7.5.201505241946.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jacoco/org.jacoco.report/0.7.5.201505241946/org.jacoco.report-0.7.5.201505241946.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/jopt-simple/jopt-simple/4.9/jopt-simple-4.9.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/protobuf/protobuf-java/3.0.0/protobuf-java-3.0.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-model/2.3.0/builder-model-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/builder-test-api/2.3.0/builder-test-api-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdklib/25.3.0/sdklib-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/sdk-common/25.3.0/sdk-common-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/common/25.3.0/common-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/manifest-merger/25.3.0/manifest-merger-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/ddms/ddmlib/25.3.0/ddmlib-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jack/jack-api/0.13.0/jack-api-0.13.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jill/jill-api/0.10.0/jill-api-0.10.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/analytics-library/protos/25.3.0/protos-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/analytics-library/shared/25.3.0/shared-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/analytics-library/tracker/25.3.0/tracker-25.3.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-tree-5.0.3-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/5.0.3/287749b48ba7162fb67c93a026d690b29f410bed/asm-tree-5.0.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-checks/25.1.2/433c9236b299a30633c7a82ac4ab1b2b7fa52e0/lint-checks-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-checks/25.1.2/68583e445a033021d9792c9d84ac7ce8ea549c81/lint-checks-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jdt.core.compiler/ecj/4.4.2/903e8c2cb521cc91636eccae66b8594435516ff5/ecj-4.4.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jdt.core.compiler/ecj/4.4.2/71d67f5bab9465ec844596ef844f40902ae25392/ecj-4.4.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/25.1.2/e7aa50c5649e0ad23ce4fa6b2aa7b53fc5ce8bd7/annotations-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/25.1.2/9dbfadaaf19097c12787c68cf43a12c739936345/annotations-25.1.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.1.2/2d98da9b8a210c81d0456a09c702b84beea32be/baseLibrary-2.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.1.2/d0395908c940f4171fb024435b25f7458c1147f3/baseLibrary-2.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4/4.5/d61f0b719751a2823a1d4e2d206406488d52276d/antlr4-4.5-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4/4.5/a0e860e317147848e69ac145bc5196901a9993bf/antlr4-4.5.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-tree/5.0.4/asm-tree-5.0.4.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-checks/25.3.0/lint-checks-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/eclipse/jdt/core/compiler/ecj/4.6.1/ecj-4.6.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/databinding/baseLibrary/2.3.0/baseLibrary-2.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/antlr4/4.5.3/antlr4-4.5.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.2.1/proguard-base-5.2.1.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/annotations/25.3.0/annotations-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.3.2/proguard-base-5.3.2.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/ST4/4.0.8/ST4-4.0.8.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/25.1.2/77d6be5f7434bbee7ba7e259f1ccad79e2fbde6/layoutlib-api-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/25.1.2/b93f0de181063ee2f673d7d6cac0bdbb94cc1b90/layoutlib-api-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/25.1.2/7d06048ed915a03eaf99c70bbc6e68d10324c30e/dvlib-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/25.1.2/bfcb16fb0e44568bd8e31c6aaf1850c1dcd06483/dvlib-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/25.1.2/d5bc6e179c237124e51b4af951e4caf0f31d4837/repository-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/25.1.2/1a1f5f59b21a42817eec50b7aced4400bb72273b/repository-25.1.2.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/layoutlib/layoutlib-api/25.3.0/layoutlib-api-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/dvlib/25.3.0/dvlib-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/repository/25.3.0/repository-25.3.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-api/25.1.2/2a9b10f19fc2bf1cca643a9770e4738d9b121ed3/lint-api-25.1.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-api/25.1.2/f9f6807b68d486eaf34cc3f08b6f098f89cf3db8/lint-api-25.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-analysis-5.0.3-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/5.0.3/c7126aded0e8e13fed5f913559a0dd7b770a10f3/asm-analysis-5.0.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4-runtime/4.5/61495cea98c9c63b16b87ae4e79b7e478405e40b/antlr4-runtime-4.5-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4-runtime/4.5/5067478827a98f5ab77d9fc577903edc57af3da4/antlr4-runtime-4.5.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4-annotations/4.5/8d24c9255a970c3c85fc5c88dfe9d4e8627d56e2/antlr4-annotations-4.5-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4-annotations/4.5/2c5996120a0ac690de575bd8ac36250e6720a6b8/antlr4-annotations-4.5.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/lint/lint-api/25.3.0/lint-api-25.3.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-analysis/5.0.4/asm-analysis-5.0.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/jimfs/jimfs/1.1/jimfs-1.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/com-intellij/uast/162.2228.14/uast-162.2228.14.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.abego.treelayout/org.abego.treelayout.core/1.0.1/6e1dd6f6efdb453c7b8ba35726c63fbf50cd7142/org.abego.treelayout.core-1.0.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.abego.treelayout/org.abego.treelayout.core/1.0.1/e31e79cba7a5414cf18fa69f3f0a2cf9ee997b61/org.abego.treelayout.core-1.0.1.jar" />
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$/library" />
@@ -2713,10 +2530,11 @@
         <option value="$PROJECT_DIR$/imageLoaderSample/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/imageLoaderSample/src/main/res/layout/ac_image.xml" />
         <option value="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImageListActivity.java" />
-        <option value="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImagePagerActivity.java" />
         <option value="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/widget/UILWidgetProvider.java" />
         <option value="$PROJECT_DIR$/imageLoaderSample/build.gradle" />
         <option value="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/AbsListViewBaseActivity.java" />
+        <option value="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImagePagerActivity.java" />
+        <option value="$PROJECT_DIR$/library/build.gradle" />
       </list>
     </option>
   </component>
@@ -2753,27 +2571,6 @@
     <panes>
       <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ImageLoaderSample" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ImageLoaderSample" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="imageLoaderSample" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -2866,6 +2663,27 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ImageLoaderSample" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ImageLoaderSample" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imageLoaderSample" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2941,6 +2759,31 @@
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -3227,28 +3070,35 @@
       <option name="presentableId" value="Default" />
       <updated>1466065752200</updated>
     </task>
+    <task id="LOCAL-00001" summary="提交代码&#10;">
+      <created>1491384754533</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1491384754533</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-402" y="-1057" width="1920" height="1057" extended-state="0" />
-    <editor active="true" />
+    <frame x="-402" y="-1057" width="1920" height="1057" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32943678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.75770456" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.67481405" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25239617" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -3266,7 +3116,26 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -3351,36 +3220,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5225">
           <caret line="315" column="28" selection-start-line="315" selection-start-column="28" selection-end-line="315" selection-end-column="28" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#4314#4315#0" expanded="false" />
-            <element signature="e#4349#4350#0" expanded="false" />
-            <element signature="e#5120#5121#0" expanded="false" />
-            <element signature="e#5167#5168#0" expanded="false" />
-            <element signature="e#6154#6155#0" expanded="false" />
-            <element signature="e#6204#6205#0" expanded="false" />
-            <element signature="e#7154#7155#0" expanded="false" />
-            <element signature="e#7205#7206#0" expanded="false" />
-            <element signature="e#12751#12752#0" expanded="false" />
-            <element signature="e#12802#12803#0" expanded="false" />
-            <element signature="e#13988#13989#0" expanded="false" />
-            <element signature="e#14034#14035#0" expanded="false" />
-            <element signature="e#17999#18000#0" expanded="false" />
-            <element signature="e#18051#18052#0" expanded="false" />
-            <element signature="e#18282#18283#0" expanded="false" />
-            <element signature="e#18327#18328#0" expanded="false" />
-            <element signature="e#18903#18904#0" expanded="false" />
-            <element signature="e#18959#18960#0" expanded="false" />
-            <element signature="e#19398#19399#0" expanded="false" />
-            <element signature="e#19448#19449#0" expanded="false" />
-            <element signature="e#19648#19649#0" expanded="false" />
-            <element signature="e#19669#19670#0" expanded="false" />
-            <element signature="e#19739#19740#0" expanded="false" />
-            <element signature="e#19761#19762#0" expanded="false" />
-            <element signature="e#19920#19921#0" expanded="false" />
-            <element signature="e#19940#19941#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3417,20 +3257,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8265">
           <caret line="464" column="25" selection-start-line="464" selection-start-column="25" selection-end-line="464" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#28160#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#14184#14185#0" expanded="false" />
-            <element signature="e#14233#14234#0" expanded="false" />
-            <element signature="e#17091#17092#0" expanded="false" />
-            <element signature="e#17143#17144#0" expanded="false" />
-            <element signature="e#18820#18821#0" expanded="false" />
-            <element signature="e#18886#18887#0" expanded="false" />
-            <element signature="e#25153#25154#0" expanded="false" />
-            <element signature="e#25204#25205#0" expanded="false" />
-            <element signature="e#27184#27185#0" expanded="false" />
-            <element signature="e#27243#27244#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3586,20 +3412,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8265">
           <caret line="464" column="25" selection-start-line="464" selection-start-column="25" selection-end-line="464" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#28160#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#14184#14185#0" expanded="false" />
-            <element signature="e#14233#14234#0" expanded="false" />
-            <element signature="e#17091#17092#0" expanded="false" />
-            <element signature="e#17143#17144#0" expanded="false" />
-            <element signature="e#18820#18821#0" expanded="false" />
-            <element signature="e#18886#18887#0" expanded="false" />
-            <element signature="e#25153#25154#0" expanded="false" />
-            <element signature="e#25204#25205#0" expanded="false" />
-            <element signature="e#27184#27185#0" expanded="false" />
-            <element signature="e#27243#27244#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3660,9 +3472,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3687,11 +3496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1772#1773#0" expanded="false" />
-            <element signature="e#1876#1877#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3699,30 +3503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
           <caret line="64" column="9" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#3492#3493#0" expanded="false" />
-            <element signature="e#3643#3644#0" expanded="false" />
-            <element signature="e#3787#3788#0" expanded="false" />
-            <element signature="e#3849#3850#0" expanded="false" />
-            <element signature="e#4074#4075#0" expanded="false" />
-            <element signature="e#4145#4146#0" expanded="false" />
-            <element signature="e#4374#4375#0" expanded="false" />
-            <element signature="e#4432#4433#0" expanded="false" />
-            <element signature="e#4996#4997#0" expanded="false" />
-            <element signature="e#5042#5043#0" expanded="false" />
-            <element signature="e#5474#5475#0" expanded="false" />
-            <element signature="e#5515#5516#0" expanded="false" />
-            <element signature="e#5704#5705#0" expanded="false" />
-            <element signature="e#5727#5728#0" expanded="false" />
-            <element signature="e#6513#6514#0" expanded="false" />
-            <element signature="e#6533#6534#0" expanded="false" />
-            <element signature="e#6563#6564#0" expanded="false" />
-            <element signature="e#6596#6597#0" expanded="false" />
-            <element signature="e#6624#6625#0" expanded="false" />
-            <element signature="e#6655#6656#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3738,36 +3518,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3591">
           <caret line="223" column="70" selection-start-line="223" selection-start-column="70" selection-end-line="223" selection-end-column="70" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#4314#4315#0" expanded="false" />
-            <element signature="e#4349#4350#0" expanded="false" />
-            <element signature="e#5120#5121#0" expanded="false" />
-            <element signature="e#5167#5168#0" expanded="false" />
-            <element signature="e#6154#6155#0" expanded="false" />
-            <element signature="e#6204#6205#0" expanded="false" />
-            <element signature="e#7154#7155#0" expanded="false" />
-            <element signature="e#7205#7206#0" expanded="false" />
-            <element signature="e#12751#12752#0" expanded="false" />
-            <element signature="e#12802#12803#0" expanded="false" />
-            <element signature="e#13988#13989#0" expanded="false" />
-            <element signature="e#14034#14035#0" expanded="false" />
-            <element signature="e#17999#18000#0" expanded="false" />
-            <element signature="e#18051#18052#0" expanded="false" />
-            <element signature="e#18282#18283#0" expanded="false" />
-            <element signature="e#18327#18328#0" expanded="false" />
-            <element signature="e#18903#18904#0" expanded="false" />
-            <element signature="e#18959#18960#0" expanded="false" />
-            <element signature="e#19398#19399#0" expanded="false" />
-            <element signature="e#19448#19449#0" expanded="false" />
-            <element signature="e#19648#19649#0" expanded="false" />
-            <element signature="e#19669#19670#0" expanded="false" />
-            <element signature="e#19739#19740#0" expanded="false" />
-            <element signature="e#19761#19762#0" expanded="false" />
-            <element signature="e#19920#19921#0" expanded="false" />
-            <element signature="e#19940#19941#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3775,14 +3526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1615">
           <caret line="115" column="35" selection-start-line="115" selection-start-column="35" selection-end-line="115" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/library/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -3816,7 +3559,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
+        <state relative-caret-position="133">
           <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
           <folding />
         </state>
@@ -3824,7 +3567,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImageActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="562">
+        <state relative-caret-position="722">
           <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -3835,7 +3578,15 @@
     <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImagePagerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding />
         </state>
       </provider>

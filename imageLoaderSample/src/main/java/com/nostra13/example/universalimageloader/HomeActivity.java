@@ -15,19 +15,19 @@
  *******************************************************************************/
 package com.nostra13.example.universalimageloader;
 
-import static com.nostra13.example.universalimageloader.Constants.IMAGES;
-
-import java.io.File;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.InputStream;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
 import com.nostra13.example.universalimageloader.Constants.Extra;
 import com.nostra13.universalimageloader.utils.L;
+
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.InputStream;
+
+import static com.nostra13.example.universalimageloader.Constants.IMAGES;
 
 /**
  * @author Sergey Tarasevich (nostra13[at]gmail[dot]com)
@@ -68,6 +68,12 @@ public class HomeActivity extends BaseActivity {
 	public void onImageGalleryClick(View view) {
 		Intent intent = new Intent(this, ImageGalleryActivity.class);
 		intent.putExtra(Extra.IMAGES, IMAGES);
+		startActivity(intent);
+	}
+
+	public void onImageClick(View view){
+		Intent intent = new Intent(this, ImageActivity.class);
+		intent.putExtra(Extra.IMAGE_POSITION, "http://img.hb.aicdn.com/1a10f1f34ab022b530fed27f807d5a89188433fef5f3-rFEISj_fw658");
 		startActivity(intent);
 	}
 

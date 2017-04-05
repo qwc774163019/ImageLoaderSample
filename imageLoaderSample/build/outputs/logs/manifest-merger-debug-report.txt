@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:2:1-52:12
+ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:2:1-53:12
 	package
 		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:3:5-56
 		INJECTED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml
@@ -35,7 +35,7 @@ ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSampl
 	android:name
 		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:12:22-78
 application
-ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:14:5-50:19
+ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:14:5-51:19
 	android:label
 		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:17:9-41
 	android:icon
@@ -58,43 +58,47 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:24:17-77
 	android:name
 		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:24:27-74
+activity#com.nostra13.example.universalimageloader.ImageActivity
+ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:27:19-48
 activity#com.nostra13.example.universalimageloader.ImageListActivity
-ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:27:9-29:58
+ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:28:9-30:58
 	android:label
-		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:29:13-55
+		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:30:13-55
 	android:name
-		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:28:13-46
+		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:29:13-46
 activity#com.nostra13.example.universalimageloader.ImageGridActivity
-ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:30:9-32:58
+ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:31:9-33:58
 	android:label
-		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:32:13-55
+		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:33:13-55
 	android:name
-		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:31:13-46
+		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:32:13-46
 activity#com.nostra13.example.universalimageloader.ImagePagerActivity
-ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:33:9-35:59
+ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:34:9-36:59
 	android:label
-		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:35:13-56
+		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:36:13-56
 	android:name
-		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:34:13-47
+		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:35:13-47
 activity#com.nostra13.example.universalimageloader.ImageGalleryActivity
-ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:36:9-38:61
+ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:37:9-39:61
 	android:label
-		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:38:13-58
+		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:39:13-58
 	android:name
-		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:37:13-49
+		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:38:13-49
 receiver#com.nostra13.example.universalimageloader.widget.UILWidgetProvider
-ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:41:9-49:20
+ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:42:9-50:20
 	android:name
-		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:41:19-59
+		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:42:19-59
 meta-data#android.appwidget.provider
-ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:42:13-44:59
+ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:43:13-45:59
 	android:resource
-		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:44:17-56
+		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:45:17-56
 	android:name
-		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:43:17-58
+		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:44:17-58
 intent-filter#android.appwidget.action.APPWIDGET_UPDATE
-ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:46:13-48:29
+ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:47:13-49:29
 action#android.appwidget.action.APPWIDGET_UPDATE
-ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:47:17-84
+ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:48:17-84
 	android:name
-		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:47:25-81
+		ADDED from /Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/AndroidManifest.xml:48:25-81

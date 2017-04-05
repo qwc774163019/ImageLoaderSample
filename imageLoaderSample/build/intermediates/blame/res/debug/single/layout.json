@@ -16,6 +16,10 @@
         "source": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/res/layout/item_pager_image.xml"
     },
     {
+        "merged": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/res/merged/debug/layout/ac_image.xml",
+        "source": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/res/layout/ac_image.xml"
+    },
+    {
         "merged": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/res/merged/debug/layout/item_gallery_image.xml",
         "source": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/res/layout/item_gallery_image.xml"
     },

@@ -1,0 +1,4 @@
+#Thu Apr 06 10:09:41 CST 2017
+base.0=/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_5cc49fc62ca2d9664536162e46989a87a8459fab
+renamed.0=classes.dex
+file.0=/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_5cc49fc62ca2d9664536162e46989a87a8459fab/classes.dex

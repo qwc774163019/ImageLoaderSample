@@ -1,2 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Applications/adt-bundle-mac-x86_64-20140321/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_5cc49fc62ca2d9664536162e46989a87a8459fab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee04f3330c6df407bb443dc59e37352867c464fe">
+        <dex dex="/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8cfbc60f66d032b50512551af56eef0dfe4290f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_14b2444ea80db1f6600f574df25ae1ae1c0bc7da/classes.dex" />
+    </item>
+
+</items>

@@ -73,7 +73,7 @@ public class HomeActivity extends BaseActivity {
 
 	public void onImageClick(View view){
 		Intent intent = new Intent(this, ImageActivity.class);
-		intent.putExtra(Extra.IMAGE_POSITION, "http://img.hb.aicdn.com/1a10f1f34ab022b530fed27f807d5a89188433fef5f3-rFEISj_fw658");
+		intent.putExtra(Extra.IMAGE_POSITION, "https://i2.sandbox.yongche.org/media/g2/M03/00/28/rBEBP1do5hqICEFwAAAVDzg5WkEAAAP5wCQG38AABUn343.png");
 		startActivity(intent);
 	}
 

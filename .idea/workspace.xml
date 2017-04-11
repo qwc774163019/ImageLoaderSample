@@ -19,16 +19,78 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9411e978-7389-46a9-8cc1-d18b03b14ebb" name="Default" comment="忽略文件">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-04-06-10-17-36-996.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-04-06-10-19-26-010.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-04-06-10-23-03-974.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-04-06-10-31-14-080.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-04-06-10-31-55-653.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-04-06-10-33-11-597.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-04-06-10-38-38-912.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/builds/debug/1491445915667/classes.dex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/incremental-verifier/debug/com/nostra13/universalimageloader/core/download/AuthImageDownloader$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/incremental-verifier/debug/com/nostra13/universalimageloader/core/download/AuthImageDownloader$miTM.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/incremental-verifier/debug/com/nostra13/universalimageloader/core/download/AuthImageDownloader.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-313060749/com/nostra13/universalimageloader/core/download/AuthImageDownloader$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-313060749/com/nostra13/universalimageloader/core/download/AuthImageDownloader$miTM.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-313060749/com/nostra13/universalimageloader/core/download/AuthImageDownloader.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nostra13/universalimageloader/core/download/AuthImageDownloader$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nostra13/universalimageloader/core/download/AuthImageDownloader$miTM.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nostra13/universalimageloader/core/download/AuthImageDownloader.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/nostra13/universalimageloader/core/download/AuthImageDownloader$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/nostra13/universalimageloader/core/download/AuthImageDownloader$miTM.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/nostra13/universalimageloader/core/download/AuthImageDownloader.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/classes.jar_6vu8gqwzrw928v5vy5360s1q0/com/nostra13/universalimageloader/core/download/AuthImageDownloader$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/classes.jar_6vu8gqwzrw928v5vy5360s1q0/com/nostra13/universalimageloader/core/download/AuthImageDownloader$miTM.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/tmp/expandedArchives/classes.jar_6vu8gqwzrw928v5vy5360s1q0/com/nostra13/universalimageloader/core/download/AuthImageDownloader.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/build/intermediates/classes/release/com/nostra13/universalimageloader/core/download/AuthImageDownloader$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/build/intermediates/classes/release/com/nostra13/universalimageloader/core/download/AuthImageDownloader$miTM.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/build/intermediates/classes/release/com/nostra13/universalimageloader/core/download/AuthImageDownloader.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/buildId.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/buildId.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/nostra13/universalimageloader/core/download/AuthImageDownloader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_imageLoaderSample_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_imageLoaderSample_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_imageLoaderSample_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_imageLoaderSample_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_library_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_library_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/HomeActivity.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/HomeActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImageActivity$1.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImageActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImageActivity.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/ImageActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/UILApplication.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/classes/debug/com/nostra13/example/universalimageloader/UILApplication.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/incremental-verifier/debug/com/nostra13/example/universalimageloader/HomeActivity.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/incremental-verifier/debug/com/nostra13/example/universalimageloader/HomeActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/incremental-verifier/debug/com/nostra13/example/universalimageloader/ImageActivity$1.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/incremental-verifier/debug/com/nostra13/example/universalimageloader/ImageActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/incremental-verifier/debug/com/nostra13/example/universalimageloader/ImageActivity.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/incremental-verifier/debug/com/nostra13/example/universalimageloader/ImageActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/incremental-verifier/debug/com/nostra13/example/universalimageloader/UILApplication.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/incremental-verifier/debug/com/nostra13/example/universalimageloader/UILApplication.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/split-apk/debug/slices/slice_1.apk" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/split-apk/debug/slices/slice_1.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/split-apk/debug/slices/slice_9.apk" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/split-apk/debug/slices/slice_9.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nostra13/example/universalimageloader/HomeActivity.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nostra13/example/universalimageloader/HomeActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nostra13/example/universalimageloader/ImageActivity$1.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nostra13/example/universalimageloader/ImageActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nostra13/example/universalimageloader/ImageActivity.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nostra13/example/universalimageloader/ImageActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nostra13/example/universalimageloader/UILApplication.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/nostra13/example/universalimageloader/UILApplication.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/nostra13/example/universalimageloader/HomeActivity.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/nostra13/example/universalimageloader/HomeActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/nostra13/example/universalimageloader/ImageActivity$1.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/nostra13/example/universalimageloader/ImageActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/nostra13/example/universalimageloader/ImageActivity.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/nostra13/example/universalimageloader/ImageActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/nostra13/example/universalimageloader/UILApplication.class" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/nostra13/example/universalimageloader/UILApplication.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/default/classes.jar" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/default/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/outputs/aar/library-release.aar" afterPath="$PROJECT_DIR$/library/build/outputs/aar/library-release.aar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_imageLoaderSample_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_imageLoaderSample_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_imageLoaderSample_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_imageLoaderSample_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_library_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_library_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_library_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_library_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/layout/ac_image_gallery.xml" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/layout/ac_image_gallery.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/layout/ac_image_list.xml" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/layout/ac_image_list.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/layout/ac_image_pager.xml" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/layout/ac_image_pager.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/restart-dex/debug/build-info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/imageLoaderSample.iml" afterPath="$PROJECT_DIR$/imageLoaderSample/imageLoaderSample.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/HomeActivity.java" afterPath="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/HomeActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImageActivity.java" afterPath="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImageActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/UILApplication.java" afterPath="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/UILApplication.java" />
     </list>
     <ignored path="ImageLoaderSample.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -70,66 +132,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ImageLoader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/library/src/main/java/com/nostra13/universalimageloader/core/ImageLoader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3591">
-              <caret line="223" column="70" selection-start-line="223" selection-start-column="70" selection-end-line="223" selection-end-column="70" />
-              <folding>
-                <element signature="n#!!doc" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#4314#4315#0" expanded="false" />
-                <element signature="e#4349#4350#0" expanded="false" />
-                <element signature="e#5120#5121#0" expanded="false" />
-                <element signature="e#5167#5168#0" expanded="false" />
-                <element signature="e#6154#6155#0" expanded="false" />
-                <element signature="e#6204#6205#0" expanded="false" />
-                <element signature="e#7154#7155#0" expanded="false" />
-                <element signature="e#7205#7206#0" expanded="false" />
-                <element signature="e#11519#11520#0" expanded="false" />
-                <element signature="e#11562#11563#0" expanded="false" />
-                <element signature="e#12751#12752#0" expanded="false" />
-                <element signature="e#12802#12803#0" expanded="false" />
-                <element signature="e#13988#13989#0" expanded="false" />
-                <element signature="e#14034#14035#0" expanded="false" />
-                <element signature="e#17999#18000#0" expanded="false" />
-                <element signature="e#18051#18052#0" expanded="false" />
-                <element signature="e#18282#18283#0" expanded="false" />
-                <element signature="e#18327#18328#0" expanded="false" />
-                <element signature="e#18903#18904#0" expanded="false" />
-                <element signature="e#18959#18960#0" expanded="false" />
-                <element signature="e#19398#19399#0" expanded="false" />
-                <element signature="e#19448#19449#0" expanded="false" />
-                <element signature="e#19648#19649#0" expanded="false" />
-                <element signature="e#19669#19670#0" expanded="false" />
-                <element signature="e#19739#19740#0" expanded="false" />
-                <element signature="e#19761#19762#0" expanded="false" />
-                <element signature="e#19920#19921#0" expanded="false" />
-                <element signature="e#19940#19941#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ImageActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImageActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
-              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+            <state relative-caret-position="247">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
-                <element signature="e#1317#1318#0" expanded="false" />
-                <element signature="e#1379#1380#0" expanded="false" />
+                <element signature="e#1212#1213#0" expanded="true" />
+                <element signature="e#1318#1319#0" expanded="true" />
+                <element signature="e#1433#1434#0" expanded="true" />
+                <element signature="e#1495#1496#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ImagePagerActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImagePagerActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -137,20 +150,49 @@
       <file leaf-file-name="LoadAndDisplayImageTask.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/library/src/main/java/com/nostra13/universalimageloader/core/LoadAndDisplayImageTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1615">
-              <caret line="115" column="35" selection-start-line="115" selection-start-column="35" selection-end-line="115" selection-end-column="35" />
-              <folding>
-                <element signature="n#!!doc" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#14614#14615#0" expanded="false" />
-                <element signature="e#14679#14680#0" expanded="false" />
-                <element signature="e#14969#14970#0" expanded="false" />
-                <element signature="e#14986#14987#0" expanded="false" />
-                <element signature="e#15023#15024#0" expanded="false" />
-                <element signature="e#15073#15074#0" expanded="false" />
-                <element signature="e#15126#15127#0" expanded="false" />
-                <element signature="e#15166#15167#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="1862">
+              <caret line="128" column="23" selection-start-line="128" selection-start-column="23" selection-end-line="128" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AuthImageDownloader.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/library/src/main/java/com/nostra13/universalimageloader/core/download/AuthImageDownloader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="893">
+              <caret line="67" column="29" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BufferedInputStream.java" pinned="false" current-in-tab="false">
+        <entry file="file:///Applications/adt-bundle-mac-x86_64-20140321/sdk/sources/android-16/java/io/BufferedInputStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="89">
+              <caret line="89" column="7" selection-start-line="89" selection-start-column="7" selection-end-line="89" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseImageDownloader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library/src/main/java/com/nostra13/universalimageloader/core/download/BaseImageDownloader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="950">
+              <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseImageDecoder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library/src/main/java/com/nostra13/universalimageloader/core/decode/BaseImageDecoder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="703">
+              <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -161,63 +203,43 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+            <state relative-caret-position="266">
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DisplayBitmapTask.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/library/src/main/java/com/nostra13/universalimageloader/core/DisplayBitmapTask.java">
+      <file leaf-file-name="UILApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/UILApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="51" column="11" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
+            <state relative-caret-position="589">
+              <caret line="56" column="64" selection-start-line="56" selection-start-column="64" selection-end-line="56" selection-end-column="64" />
               <folding>
-                <element signature="n#!!doc" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#3602#3603#0" expanded="false" />
-                <element signature="e#3645#3646#0" expanded="false" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imageLoaderSample/build.gradle">
+      <file leaf-file-name="HomeActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/HomeActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="912">
+              <caret line="74" column="43" selection-start-line="74" selection-start-column="43" selection-end-line="74" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/library/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-              <folding />
-            </state>
+      <file leaf-file-name="ac_home.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/res/layout/ac_home.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -2548,8 +2570,6 @@
       <list>
         <option value="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/NutraBaseImageDecoder.java" />
         <option value="$PROJECT_DIR$/imageLoaderSample/src/main/res/layout/ac_home.xml" />
-        <option value="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/HomeActivity.java" />
-        <option value="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImageActivity.java" />
         <option value="$PROJECT_DIR$/imageLoaderSample/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/imageLoaderSample/src/main/res/layout/ac_image.xml" />
         <option value="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImageListActivity.java" />
@@ -2558,6 +2578,10 @@
         <option value="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/AbsListViewBaseActivity.java" />
         <option value="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImagePagerActivity.java" />
         <option value="$PROJECT_DIR$/library/build.gradle" />
+        <option value="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/HomeActivity.java" />
+        <option value="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImageActivity.java" />
+        <option value="$PROJECT_DIR$/library/src/main/java/com/nostra13/universalimageloader/core/download/AuthImageDownloader.java" />
+        <option value="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/UILApplication.java" />
       </list>
     </option>
   </component>
@@ -2592,7 +2616,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -2658,6 +2681,142 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="universalimageloader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ImageLoaderSample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ImageLoaderSample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="universalimageloader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ImageLoaderSample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ImageLoaderSample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="universalimageloader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="download" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ImageLoaderSample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ImageLoaderSample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="universalimageloader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ImageLoaderSample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ImageLoaderSample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="imageLoaderSample" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -2687,6 +2846,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2721,16 +2881,19 @@
     <property name="DEBUGGABLE_DEVICE" value="huawei-nexus_6p-ENU7N16106000418" />
     <property name="DEBUGGABLE_PROCESS" value="com.nostra13.example.universalimageloader" />
     <property name="SHOW_ALL_PROCESSES" value="false" />
-    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DEBUGGER_ID" value="Java" />
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="2.1.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/imageLoaderSample/src/main/libs/aa.jar" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/imageLoaderSample/src/main/libs" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.nostra13.example.universalimageloader" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nostra13.universalimageloader.core.download" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imageLoaderSample/src/main/libs" />
     </key>
   </component>
   <component name="RunManager" selected="Android App.imageLoaderSample">
@@ -3149,33 +3312,50 @@
       <option name="project" value="LOCAL" />
       <updated>1491445133747</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="忽略文件">
+      <created>1491445341736</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1491445341736</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-402" y="-1057" width="1920" height="1057" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32943678" sideWeight="0.4978701" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.8884166" sideWeight="0.3881789" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32943678" sideWeight="0.5021299" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16471839" sideWeight="0.75825346" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.4978701" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.8884166" sideWeight="0.6118211" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.49574015" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5908608" sideWeight="0.77263045" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25239617" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.49574015" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995749" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995749" sideWeight="0.4978701" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -3188,7 +3368,6 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -3230,12 +3409,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImageActivity.java</url>
-          <line>41</line>
+          <line>42</line>
           <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImageActivity.java</url>
-          <line>27</line>
+          <line>28</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -3257,77 +3436,24 @@
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImageActivity.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/library/src/main/java/com/nostra13/universalimageloader/core/LoadAndDisplayImageTask.java</url>
+          <line>242</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="6" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/res/layout/ac_image_grid.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImageGalleryActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImagePagerActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="109" column="29" selection-start-line="109" selection-start-column="29" selection-end-line="109" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/library/src/main/java/com/nostra13/universalimageloader/core/ImageLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5225">
-          <caret line="315" column="28" selection-start-line="315" selection-start-column="28" selection-end-line="315" selection-end-column="28" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#4314#4315#0" expanded="false" />
-            <element signature="e#4349#4350#0" expanded="false" />
-            <element signature="e#5120#5121#0" expanded="false" />
-            <element signature="e#5167#5168#0" expanded="false" />
-            <element signature="e#6154#6155#0" expanded="false" />
-            <element signature="e#6204#6205#0" expanded="false" />
-            <element signature="e#7154#7155#0" expanded="false" />
-            <element signature="e#7205#7206#0" expanded="false" />
-            <element signature="e#11519#11520#0" expanded="false" />
-            <element signature="e#11562#11563#0" expanded="false" />
-            <element signature="e#12751#12752#0" expanded="false" />
-            <element signature="e#12802#12803#0" expanded="false" />
-            <element signature="e#13988#13989#0" expanded="false" />
-            <element signature="e#14034#14035#0" expanded="false" />
-            <element signature="e#17999#18000#0" expanded="false" />
-            <element signature="e#18051#18052#0" expanded="false" />
-            <element signature="e#18282#18283#0" expanded="false" />
-            <element signature="e#18327#18328#0" expanded="false" />
-            <element signature="e#18903#18904#0" expanded="false" />
-            <element signature="e#18959#18960#0" expanded="false" />
-            <element signature="e#19398#19399#0" expanded="false" />
-            <element signature="e#19448#19449#0" expanded="false" />
-            <element signature="e#19648#19649#0" expanded="false" />
-            <element signature="e#19669#19670#0" expanded="false" />
-            <element signature="e#19739#19740#0" expanded="false" />
-            <element signature="e#19761#19762#0" expanded="false" />
-            <element signature="e#19920#19921#0" expanded="false" />
-            <element signature="e#19940#19941#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/library/src/main/java/com/nostra13/universalimageloader/core/decode/ImageDecoder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -3353,18 +3479,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#14614#14615#0" expanded="false" />
-            <element signature="e#14679#14680#0" expanded="false" />
-            <element signature="e#14969#14970#0" expanded="false" />
-            <element signature="e#14986#14987#0" expanded="false" />
-            <element signature="e#15023#15024#0" expanded="false" />
-            <element signature="e#15073#15074#0" expanded="false" />
-            <element signature="e#15126#15127#0" expanded="false" />
-            <element signature="e#15166#15167#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3488,25 +3603,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/UILApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="51" column="70" selection-start-line="51" selection-start-column="46" selection-end-line="51" selection-end-column="70" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/res/layout/ac_image_grid.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/library/src/main/java/com/nostra13/universalimageloader/core/decode/ImageDecoder.java">
@@ -3530,24 +3637,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/library/src/main/java/com/nostra13/universalimageloader/core/decode/BaseImageDecoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="53" column="27" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/res/layout/ac_home.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="723">
@@ -3556,30 +3645,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/HomeActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="74" column="48" selection-start-line="74" selection-start-column="48" selection-end-line="74" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/res/layout/ac_image.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-          <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImageGalleryActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="46" column="54" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3594,9 +3673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="945">
           <caret line="71" column="17" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3625,12 +3701,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="51" column="11" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#3602#3603#0" expanded="false" />
-            <element signature="e#3645#3646#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3638,57 +3709,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3591">
           <caret line="223" column="70" selection-start-line="223" selection-start-column="70" selection-end-line="223" selection-end-column="70" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#4314#4315#0" expanded="false" />
-            <element signature="e#4349#4350#0" expanded="false" />
-            <element signature="e#5120#5121#0" expanded="false" />
-            <element signature="e#5167#5168#0" expanded="false" />
-            <element signature="e#6154#6155#0" expanded="false" />
-            <element signature="e#6204#6205#0" expanded="false" />
-            <element signature="e#7154#7155#0" expanded="false" />
-            <element signature="e#7205#7206#0" expanded="false" />
-            <element signature="e#11519#11520#0" expanded="false" />
-            <element signature="e#11562#11563#0" expanded="false" />
-            <element signature="e#12751#12752#0" expanded="false" />
-            <element signature="e#12802#12803#0" expanded="false" />
-            <element signature="e#13988#13989#0" expanded="false" />
-            <element signature="e#14034#14035#0" expanded="false" />
-            <element signature="e#17999#18000#0" expanded="false" />
-            <element signature="e#18051#18052#0" expanded="false" />
-            <element signature="e#18282#18283#0" expanded="false" />
-            <element signature="e#18327#18328#0" expanded="false" />
-            <element signature="e#18903#18904#0" expanded="false" />
-            <element signature="e#18959#18960#0" expanded="false" />
-            <element signature="e#19398#19399#0" expanded="false" />
-            <element signature="e#19448#19449#0" expanded="false" />
-            <element signature="e#19648#19649#0" expanded="false" />
-            <element signature="e#19669#19670#0" expanded="false" />
-            <element signature="e#19739#19740#0" expanded="false" />
-            <element signature="e#19761#19762#0" expanded="false" />
-            <element signature="e#19920#19921#0" expanded="false" />
-            <element signature="e#19940#19941#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/library/src/main/java/com/nostra13/universalimageloader/core/LoadAndDisplayImageTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1615">
-          <caret line="115" column="35" selection-start-line="115" selection-start-column="35" selection-end-line="115" selection-end-column="35" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#14614#14615#0" expanded="false" />
-            <element signature="e#14679#14680#0" expanded="false" />
-            <element signature="e#14969#14970#0" expanded="false" />
-            <element signature="e#14986#14987#0" expanded="false" />
-            <element signature="e#15023#15024#0" expanded="false" />
-            <element signature="e#15073#15074#0" expanded="false" />
-            <element signature="e#15126#15127#0" expanded="false" />
-            <element signature="e#15166#15167#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3716,24 +3737,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/library/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-          <folding />
+        <state relative-caret-position="209">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImageActivity.java">
+    <entry file="file://$PROJECT_DIR$/library/src/main/java/com/nostra13/universalimageloader/core/assist/FailReason.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        <state relative-caret-position="138">
+          <caret line="47" column="16" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="16" />
           <folding>
-            <element signature="e#1317#1318#0" expanded="false" />
-            <element signature="e#1379#1380#0" expanded="false" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3741,15 +3757,99 @@
     <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImagePagerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+          <caret line="119" column="29" selection-start-line="119" selection-start-column="29" selection-end-line="119" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/res/layout/ac_home.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/library/build.gradle">
+    <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/HomeActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="912">
+          <caret line="74" column="43" selection-start-line="74" selection-start-column="43" selection-end-line="74" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImageActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#1212#1213#0" expanded="true" />
+            <element signature="e#1318#1319#0" expanded="true" />
+            <element signature="e#1433#1434#0" expanded="true" />
+            <element signature="e#1495#1496#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/src/main/java/com/nostra13/universalimageloader/core/download/BaseImageDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/src/main/java/com/nostra13/universalimageloader/core/decode/BaseImageDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/src/main/java/com/nostra13/universalimageloader/core/LoadAndDisplayImageTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1862">
+          <caret line="128" column="23" selection-start-line="128" selection-start-column="23" selection-end-line="128" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/UILApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="56" column="64" selection-start-line="56" selection-start-column="64" selection-end-line="56" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/adt-bundle-mac-x86_64-20140321/sdk/sources/android-16/java/io/BufferedInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="89" column="7" selection-start-line="89" selection-start-column="7" selection-end-line="89" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/src/main/java/com/nostra13/universalimageloader/core/download/AuthImageDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="67" column="29" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
           <folding />
         </state>
       </provider>

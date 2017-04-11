@@ -2,6 +2,7 @@ package com.nostra13.example.universalimageloader;
 
 import android.graphics.Bitmap;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.ImageView;
 
@@ -34,7 +35,7 @@ public class ImageActivity extends BaseActivity{
 
             @Override
             public void onLoadingFailed(String imageUri, View view, FailReason failReason) {
-
+                Log.i("QWC",failReason.getType()+"---"+failReason.getCause().getMessage());
             }
 
             @Override

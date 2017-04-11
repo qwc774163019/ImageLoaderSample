@@ -18,7 +18,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9411e978-7389-46a9-8cc1-d18b03b14ebb" name="Default" comment="忽略文件">
+    <list default="true" id="9411e978-7389-46a9-8cc1-d18b03b14ebb" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-04-06-10-23-03-974.rawproto" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-04-06-10-31-14-080.rawproto" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-04-06-10-31-55-653.rawproto" />
@@ -45,7 +45,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/build/intermediates/classes/release/com/nostra13/universalimageloader/core/download/AuthImageDownloader.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/buildId.txt" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/buildId.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/nostra13/universalimageloader/core/download/AuthImageDownloader.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
@@ -87,10 +86,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/layout/ac_image_list.xml" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/layout/ac_image_list.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/layout/ac_image_pager.xml" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/res/merged/debug/layout/ac_image_pager.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/imageLoaderSample/build/intermediates/restart-dex/debug/build-info.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/imageLoaderSample.iml" afterPath="$PROJECT_DIR$/imageLoaderSample/imageLoaderSample.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/HomeActivity.java" afterPath="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/HomeActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImageActivity.java" afterPath="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/ImageActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/UILApplication.java" afterPath="$PROJECT_DIR$/imageLoaderSample/src/main/java/com/nostra13/example/universalimageloader/UILApplication.java" />
     </list>
     <ignored path="ImageLoaderSample.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -160,8 +155,8 @@
       <file leaf-file-name="AuthImageDownloader.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/library/src/main/java/com/nostra13/universalimageloader/core/download/AuthImageDownloader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="893">
-              <caret line="67" column="29" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
+            <state relative-caret-position="76">
+              <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -3319,7 +3314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1491445341736</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="忽略文件">
+      <created>1491877976298</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1491877976298</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -3333,18 +3335,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-402" y="-1057" width="1920" height="1057" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32943678" sideWeight="0.4978701" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.4978701" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32943678" sideWeight="0.5021299" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5908608" sideWeight="0.23056443" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16471839" sideWeight="0.75825346" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.49574015" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5908608" sideWeight="0.77263045" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5908608" sideWeight="0.7694356" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -3848,8 +3850,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/library/src/main/java/com/nostra13/universalimageloader/core/download/AuthImageDownloader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
-          <caret line="67" column="29" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
+        <state relative-caret-position="76">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
           <folding />
         </state>
       </provider>

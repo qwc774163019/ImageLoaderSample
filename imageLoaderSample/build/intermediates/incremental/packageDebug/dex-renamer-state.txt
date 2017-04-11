@@ -1,7 +1,0 @@
-#Thu Apr 06 10:09:42 CST 2017
-base.0=/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8cfbc60f66d032b50512551af56eef0dfe4290f1
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_14b2444ea80db1f6600f574df25ae1ae1c0bc7da/classes.dex
-base.1=/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_14b2444ea80db1f6600f574df25ae1ae1c0bc7da
-file.0=/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8cfbc60f66d032b50512551af56eef0dfe4290f1/classes.dex

@@ -1,0 +1,4 @@
+#Tue Apr 11 10:51:52 CST 2017
+base.0=/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+renamed.0=classes.dex
+file.0=/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex

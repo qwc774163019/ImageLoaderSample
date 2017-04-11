@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/res/merged/debug/drawable-mdpi/ic_stub.png",
+        "source": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/res/drawable-mdpi/ic_stub.png"
+    },
+    {
+        "merged": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/res/merged/debug/drawable-mdpi/ic_empty.png",
+        "source": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/res/drawable-mdpi/ic_empty.png"
+    },
+    {
+        "merged": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/res/merged/debug/drawable-mdpi/ic_error.png",
+        "source": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/res/drawable-mdpi/ic_error.png"
+    },
+    {
+        "merged": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/res/merged/debug/layout/item_list_image.xml",
+        "source": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/res/layout/item_list_image.xml"
+    },
+    {
+        "merged": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/res/merged/debug/layout/widget.xml",
+        "source": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/res/layout/widget.xml"
+    },
+    {
+        "merged": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/res/merged/debug/layout/ac_image_list.xml",
+        "source": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/res/layout/ac_image_list.xml"
+    },
+    {
+        "merged": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/res/merged/debug/layout/item_pager_image.xml",
+        "source": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/res/layout/item_pager_image.xml"
+    },
+    {
+        "merged": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/res/merged/debug/layout/ac_image.xml",
+        "source": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/res/layout/ac_image.xml"
+    },
+    {
+        "merged": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/res/merged/debug/layout/item_gallery_image.xml",
+        "source": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/res/layout/item_gallery_image.xml"
+    },
+    {
+        "merged": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/res/merged/debug/layout/ac_home.xml",
+        "source": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/res/layout/ac_home.xml"
+    },
+    {
+        "merged": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/res/merged/debug/layout/ac_image_gallery.xml",
+        "source": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/res/layout/ac_image_gallery.xml"
+    },
+    {
+        "merged": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/res/merged/debug/layout/item_grid_image.xml",
+        "source": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/res/layout/item_grid_image.xml"
+    },
+    {
+        "merged": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/res/merged/debug/layout/ac_image_grid.xml",
+        "source": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/res/layout/ac_image_grid.xml"
+    },
+    {
+        "merged": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/build/intermediates/res/merged/debug/layout/ac_image_pager.xml",
+        "source": "/Users/chao/Documents/ASProjectNew/ImageLoaderSample/imageLoaderSample/src/main/res/layout/ac_image_pager.xml"
+    }
+]
